@@ -1,0 +1,22 @@
+
+body{
+  text-align: center;
+  color:#8290a4;
+  
+
+}
+
+.bg-dark{
+  background-color: #e1e5eb!important;
+  }
+
+  .container{
+    margin-top:10%;
+  }
+
+  .container1{
+    text-align: center;
+    border: solid, 2px, black;
+    padding:20px;
+  }
+ 
